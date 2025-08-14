@@ -34,7 +34,6 @@ export default function Navbar() {
             </Link>
             <a
               href="/pricing"
-              target="_blank"
               className="ml-6 flex gap-2 items-center bg-yellow-400 hover:bg-yellow-500 px-4 py-2 rounded text-black font-semibold"
             >
               <Github size={20} />
